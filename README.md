@@ -1,3 +1,3 @@
 # Leticia Maciel de Souza
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Leticia Maciel GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiamacieldesouza)](https://github.com/leticiamacieldesouza/github-readme-stats)
